@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">app_map</string>
+    <string name="pattern_solid">Solid</string>
+    <string name="pattern_dotted">Dotted</string>
+    <string name="pattern_dashed">Dashed</string>
+    <string name="pattern_mixed">Mixed</string>
+    <string name="map_circle_description">Google Map with circles.</string>
+    <string name="properties_circle">modifier coleur</string>
+    <string name="fill_hue">Fill Hue</string>
+    <string name="fill_alpha">Fill Alpha</string>
+    <string name="stroke_width">Stroke Width</string>
+    <string name="stroke_hue">Stroke Hue</string>
+    <string name="stroke_alpha">Stroke Alpha</string>
+    <string name="stroke_pattern">Stroke Pattern</string>
+    <string name="clickable">Clickable</string>
+    <string name="permission_rationale_location">Access to the location service is required to demonstrate the \'my location\' feature, which shows your current location on the map.</string>
+    <string name="location_permission_denied">This sample requires location permission to enable the \'my location\' layer. Please try again and grant access to use the location.\nIf the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'Google Maps API Demos\'.</string>
+    <string name="permission_required_toast">Location permission is required for this demo.</string>
+    <string name="dessiner">Dessiner</string>
+    <string name="supprimer">supprimer</string>
+    <string name="header">Voici votre\npremier pas\navec nous</string>
+    <string name="phone">Numero de téléphone</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Mot de passe</string>
+</resources>
